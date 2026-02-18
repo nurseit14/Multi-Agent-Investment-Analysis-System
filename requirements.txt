@@ -1,0 +1,27 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+langchain-qdrant
+langchain-chroma
+tiktoken
+
+crewai
+crewai-tools
+
+pydantic
+pydantic-settings
+
+pandas
+numpy
+matplotlib
+yfinance
+networkx
+
+PyPDF2
+python-dotenv
+
+# MCP Python SDK (официальный)
+mcp
+langchain-mcp-adapters
