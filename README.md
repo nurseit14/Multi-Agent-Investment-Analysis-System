@@ -58,6 +58,3 @@ Navigate to `http://127.0.0.1:8000` in your web browser. You can trigger the age
 - [YFinance](https://pypi.org/project/yfinance/)
 - [ReportLab](https://pypi.org/project/reportlab/)
 - PyPDF2, Qdrant / Chroma
-
-## ⚖️ Disclaimer
-*This project is built purely for educational and research purposes. The AI-generated final investment reports or analysis presented by the platform must not be considered professional financial advice.*
